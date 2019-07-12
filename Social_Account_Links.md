@@ -19,7 +19,7 @@ Thomas C. Lowry
 [GitHub](https://github.com/thomasclowry)  
 thomas.c.lowry@outlook.com
 
-Robert K. Orndoff
+Robert K. Orndoff 
 [LinkedIn](https://www.linkedin.com/in/robert-orndoff/)  
 [GitHub](https://github.com/orndor)  
 robert.k.orndoff@outlook.com
