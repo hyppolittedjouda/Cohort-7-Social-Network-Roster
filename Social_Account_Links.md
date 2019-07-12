@@ -14,3 +14,7 @@ Justin A. Hughes
 justin.a.hughes24@outlook.com  
 (In order to do a single newline you must double space and then enter)  
 
+Thomas C. Lowry  
+[LinkedIn](https://www.linkedin.com/in/thomasclowry/)  
+[GitHub](https://github.com/thomasclowry)  
+thomas.c.lowry@outlook.com
