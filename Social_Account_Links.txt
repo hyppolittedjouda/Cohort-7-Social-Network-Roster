@@ -1,0 +1,11 @@
+Use the following format when putting in your information:
+Full Name
+LinkedIn:
+GitHub:
+Email:
+
+
+Justin A. Hughes
+LinkedIn: https://www.linkedin.com/in/justin-hughes-b055b057/
+GitHub: https://github.com/Justin-Hughes
+Email: justin.a.hughes24@outlook.com
