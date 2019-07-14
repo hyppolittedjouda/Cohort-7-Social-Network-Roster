@@ -25,6 +25,6 @@ Robert K. Orndoff
 robert.k.orndoff@outlook.com
 
 Ibrahim Toure
-[LinkedIn](https://www.linkedin.com/in/brimtoure)
-[Github](https://github.com/brimtin)
+[LinkedIn](https://www.linkedin.com/in/brimtoure)  
+[Github](https://github.com/brimtin)  
 ibrahim.toure2019@outlook.com
