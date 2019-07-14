@@ -24,7 +24,7 @@ Robert K. Orndoff
 [GitHub](https://github.com/orndor)  
 robert.k.orndoff@outlook.com
 
-Ibrahim Toure
+Ibrahim Toure  
 [LinkedIn](https://www.linkedin.com/in/brimtoure)  
 [Github](https://github.com/brimtin)  
 ibrahim.toure2019@outlook.com
