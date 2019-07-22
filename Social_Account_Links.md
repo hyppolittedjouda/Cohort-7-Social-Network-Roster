@@ -28,3 +28,8 @@ Ibrahim Toure
 [LinkedIn](https://www.linkedin.com/in/brimtoure)  
 [Github](https://github.com/brimtin)  
 ibrahim.toure2019@outlook.com
+
+Hyppolitte Djouda
+[linkedIn] ( https://www.linkedin.com/in/hyppolitte-djouda)
+[Github] (https://github.com/hyppolittedjouda)
+hyppolitte.djouda@outlook.com
